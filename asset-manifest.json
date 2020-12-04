@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ac-monitoring-web-ui-ver-1/static/css/main.fe781c57.chunk.css",
+    "main.js": "/ac-monitoring-web-ui-ver-1/static/js/main.f698d566.chunk.js",
+    "main.js.map": "/ac-monitoring-web-ui-ver-1/static/js/main.f698d566.chunk.js.map",
+    "runtime-main.js": "/ac-monitoring-web-ui-ver-1/static/js/runtime-main.45c24d03.js",
+    "runtime-main.js.map": "/ac-monitoring-web-ui-ver-1/static/js/runtime-main.45c24d03.js.map",
+    "static/js/2.1a051540.chunk.js": "/ac-monitoring-web-ui-ver-1/static/js/2.1a051540.chunk.js",
+    "static/js/2.1a051540.chunk.js.map": "/ac-monitoring-web-ui-ver-1/static/js/2.1a051540.chunk.js.map",
+    "static/js/3.18721485.chunk.js": "/ac-monitoring-web-ui-ver-1/static/js/3.18721485.chunk.js",
+    "static/js/3.18721485.chunk.js.map": "/ac-monitoring-web-ui-ver-1/static/js/3.18721485.chunk.js.map",
+    "index.html": "/ac-monitoring-web-ui-ver-1/index.html",
+    "static/css/main.fe781c57.chunk.css.map": "/ac-monitoring-web-ui-ver-1/static/css/main.fe781c57.chunk.css.map",
+    "static/js/2.1a051540.chunk.js.LICENSE.txt": "/ac-monitoring-web-ui-ver-1/static/js/2.1a051540.chunk.js.LICENSE.txt",
+    "static/media/Login-Background.css": "/ac-monitoring-web-ui-ver-1/static/media/Background Cold.1ac25416.jpg",
+    "static/media/Icon Off AC.c00d0433.png": "/ac-monitoring-web-ui-ver-1/static/media/Icon Off AC.c00d0433.png",
+    "static/media/Icon On AC.00d26026.png": "/ac-monitoring-web-ui-ver-1/static/media/Icon On AC.00d26026.png",
+    "static/media/Icon Relay Off AC.1b4083bf.png": "/ac-monitoring-web-ui-ver-1/static/media/Icon Relay Off AC.1b4083bf.png",
+    "static/media/Icon Relay On AC.b0c4ef87.png": "/ac-monitoring-web-ui-ver-1/static/media/Icon Relay On AC.b0c4ef87.png",
+    "static/media/Login-Container.css": "/ac-monitoring-web-ui-ver-1/static/media/winter.c6604cc9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45c24d03.js",
+    "static/js/2.1a051540.chunk.js",
+    "static/css/main.fe781c57.chunk.css",
+    "static/js/main.f698d566.chunk.js"
+  ]
+}
