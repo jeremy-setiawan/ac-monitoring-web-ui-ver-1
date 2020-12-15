@@ -2,7 +2,9 @@
 Berikut adalah sumber dari konsep, trik pemrograman, atau kiat menulis yang diperlukan selama pembuatan aplikasi.
 
 ### Konsep pemrograman
-0. Tutorial ReactJS (tutorial utama yang digunakan untuk mempelajari ReactJS dari nol) : <br/>
+0. Buku online komprehensif terkait JavaScript : <br />
+    https://github.com/getify/You-Dont-Know-JS/tree/1st-ed <br/>
+    Tutorial ReactJS (tutorial utama yang digunakan untuk mempelajari ReactJS dari nol) : <br/>
     https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 1. Konsep React Router (berguna untuk navigasi antar halaman / layout) :<br/>
     https://css-tricks.com/react-router-4/<br/>
